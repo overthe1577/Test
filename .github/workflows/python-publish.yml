@@ -1,5 +1,0 @@
-git clone https://github.com/overthe1577/WiFi
-
-cd WiFi
-
-python2 WiFi.py
